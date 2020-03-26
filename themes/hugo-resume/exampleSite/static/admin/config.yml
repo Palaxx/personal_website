@@ -12,7 +12,7 @@
 
 backend:
   name: github
-  repo: eddiewebb/hugo-resume-theme
+  repo: eddiewebb/hugo-resume
   branch: cms
 
 
@@ -95,7 +95,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: 'Global title', name: 'title', widget: 'string' }
           - { label: 'Site Url', name: 'baseURL', widget: 'string' }
-          - { label: 'Theme', name: 'theme', widget: 'hidden', default: "hugo-resume-theme" }
+          - { label: 'Theme', name: 'theme', widget: 'hidden', default: "hugo-resume" }
           - { label: 'Language Code', name: 'languageCode', widget: 'hidden', default: "en-us" }
           - { label: 'PygmentCodeFences', name: 'PygmentsCodeFences', widget: 'boolean', required: false }
           - { label: 'PygmentCodeFencesGuessSyntax', name: 'PygmentsCodeFencesGuessSyntax', widget: 'boolean', required: false }
