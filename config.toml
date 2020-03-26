@@ -1,5 +1,5 @@
 title = "Michele Palamidessi"
-baseURL = "https://example.com/"
+baseURL = "https://palamidessi.netlify.com"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
