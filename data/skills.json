@@ -1,0 +1,43 @@
+[
+  {
+      "grouping":"Languages and frameworks",
+      "skills":[ "Java","Python","Javascript","Php","Android","bash","jquery","angular", "laravel"]
+  },
+  {
+    "grouping": "Architecture and Coding concepts",
+    "skills": [
+      "Clean Code","Microservices","REST","Webservice", "SOLID", "TDD", "Agile"
+    ]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Bitbucket", "Jira", "Confluence", "Azure Devops",
+        {"name":"Github", "icon":  "github"},
+        {"name": "Gitlab", "icon":  "git_branch"}
+      ]
+  },
+  {
+      "grouping":"Databases",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Mysql","icon":"mysql"},
+        {"name":"Sqlite","icon":"database"},
+        {"name":"Redis","icon":"redis"}
+      ]
+  },
+  {
+    "grouping":"Cloud and dev tools",
+      "skills":[
+          {"name":"AWS"},
+          "Alexa skill","Telegram bot",
+          "Docker", "Git", "Subversion"
+      ]
+  },
+  {
+    "grouping":"Operating system",
+    "skills": [
+      "Windows", "Linux",
+      { "name": "MacOs", "icon": "apple"}
+    ]
+  }
+]
