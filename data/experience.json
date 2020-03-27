@@ -1,20 +1,35 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Software developer",
+        "company":"Computergross",
+        "summary":"Contributed to project and develops a Vendor Abstract Saas marketplace. Developed a dashboard Angular2/Laravel which permit customers to control live azure costs. Consolidate my Clean Code and testing skills. Used docker on each project. Experience as PMO.",
+        "range":"September 2018 - Present",
+        "link": "https://www.computergross.it/"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Backend developer",
+        "company":"Forzieri",
+        "summary":"Contributed in the 'break the monolith' activity. Developed REST api in laravel/lumen using TDD as development methodology. Developed an ecosystem of python jobs and coverd by unit tests. Fixed issues in the classic asp codebase. Tried to spread my agile and SOLID knowledge into the company. ",
+        "range":"August 2017 - September 2018",
+        "link": "https://www.it.forzieri.com/"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Fullstack developer",
+        "company":"Pixartprinting a Cimpress Company",
+        "summary":"Developed new features on the existing website using php and js and in the same time projected new features using a microservices architecture, rest api and aws cloud services. First uses of agile methodologies and unit testing.",
+        "range":"Genuary 2016 - August 2017",
+        "link": "https://www.pixartprinting.it/"
+    },
+    {
+        "role":"Frontend developer",
+        "company":"Freelancer",
+        "summary":"Developed digital resources for e-learning purpose written in angularjs. Used webservice for retrieve data, include authentication endpoints.  ",
+        "range":"September 2014 - October 2015"
+    },
+    {
+        "role":"Android Developer",
+        "company":"Freelancer",
+        "summary":"Developed app for companies in the italian publishing sector. Used webservice for retrieve business data and local sqlite for storing sessions. Used design pattern to make the code more readable and maintainable. Studied and used the UI's best practices.",
+        "range":"Genuary 2012 - December 2015"
     }
 ]

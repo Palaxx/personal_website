@@ -10,7 +10,7 @@ enableGitInfo = false
 [params]
 address = "Firenze, IT"
 email = "palamidessimichele@gmail.com"
-favicon = "/favicon.ico"
+favicon = "favicon.ico"
 firstName = "Michele"
 lastName = "Palamidessi"
 phone = "+39 328-9074402"
