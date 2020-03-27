@@ -1,15 +1,14 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"[University of Pisa](http://www.ing.unipi.it/it/)",
+        "degree":"Not completed",
+        "major":"Computer Engineering",
+        "range":"2005 - 2008"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"[I.T.I.S Galileo](http://www.galileilivorno.it)",
+        "degree":"98/100",
+        "major":"Computer Information Highscool",
+        "range":"1999 - 2004"
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
         "role":"Software developer",
-        "company":"Computergross",
+        "company":"[Computergross](https://www.computergross.it)",
         "summary":"Contributed to project and develops a Vendor Abstract Saas marketplace. Developed a dashboard Angular2/Laravel which permit customers to control live azure costs. Consolidate my Clean Code and testing skills. Used docker on each project. Experience as PMO.",
         "range":"September 2018 - Present",
         "link": "https://www.computergross.it/"
     },
     {
         "role":"Backend developer",
-        "company":"Forzieri",
+        "company":"[Forzieri](https://www.it.forzieri.com/)",
         "summary":"Contributed in the 'break the monolith' activity. Developed REST api in laravel/lumen using TDD as development methodology. Developed an ecosystem of python jobs and coverd by unit tests. Fixed issues in the classic asp codebase. Tried to spread my agile and SOLID knowledge into the company. ",
         "range":"August 2017 - September 2018",
         "link": "https://www.it.forzieri.com/"
     },
     {
         "role":"Fullstack developer",
-        "company":"Pixartprinting a Cimpress Company",
+        "company":"[Pixartprinting a Cimpress Company](https://www.pixartprinting.com/)",
         "summary":"Developed new features on the existing website using php and js and in the same time projected new features using a microservices architecture, rest api and aws cloud services. First uses of agile methodologies and unit testing.",
         "range":"Genuary 2016 - August 2017",
-        "link": "https://www.pixartprinting.it/"
+        "link": "https://www.pixartprinting.com/"
     },
     {
         "role":"Frontend developer",

@@ -13,7 +13,8 @@
       "grouping":"Platform Development & Administration",
       "skills":[ "Bitbucket", "Jira", "Confluence", "Azure Devops",
         {"name":"Github", "icon":  "github"},
-        {"name": "Gitlab", "icon":  "git_branch"}
+        {"name": "Gitlab", "icon":  "git_branch"},
+        "Heroku", "Netlify"
       ]
   },
   {
