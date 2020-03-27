@@ -10,4 +10,10 @@ outputs:
 - json
 ---
 
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Proven Software Developer with experience on agile, SOLID principles, TDD and cloud platforms.
+
+Enthusiastic learners and pragmatic programmer. 
+
+Believer in code and experience sharing. 
+
+Aspiring to be an Extreme Programmer. 
