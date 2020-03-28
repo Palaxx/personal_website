@@ -1,12 +1,12 @@
 [
   {
       "grouping":"Languages and frameworks",
-      "skills":[ "Java","Python","Javascript","Php","Android","bash","jquery","angular", "laravel"]
+      "skills":[ "Java","Python","Javascript","Php","Android","Bash","jQuery","Angular 2", "Laravel"]
   },
   {
     "grouping": "Architecture and Coding concepts",
     "skills": [
-      "Clean Code","Microservices","REST","Webservice", "SOLID", "TDD", "Agile"
+      "Clean Code","Microservices","REST","Webservice", "SOLID", "TDD", "AGILE"
     ]
   },
   {

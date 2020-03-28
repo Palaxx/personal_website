@@ -10,10 +10,10 @@ outputs:
 - json
 ---
 
-Proven Software Developer with experience on agile, SOLID principles, TDD and cloud platforms.
+Proven Software Developer experienced in: AGILE, SOLID, TDD and Cloud Platforms.
 
-Enthusiastic learners and pragmatic programmer. 
+Enthusiastic learner and pragmatic programmer. 
 
 Believer in code and experience sharing. 
 
-Aspiring to be an Extreme Programmer. 
+Aspiring Extreme Programmer. 
