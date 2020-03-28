@@ -2,31 +2,31 @@
     {
         "role":"Software developer",
         "company":"[Computergross](https://www.computergross.it)",
-        "summary":"Project and develops a vendor abstract SaaS marketplace. Developed a dashboard Angular2/Laravel used by customers to manage his azure subscriptions costs. Consolidate my Clean Code and testing skills. Improve container knowledge using docker on each project. Experience as PMO.",
+        "summary":"Projecting and developing a vendor abstract SaaS marketplace. Creating a dashboard Angular2/Laravel used by customers to manage their Azure subscriptions billing. Consolidating my Clean Code and testing skills. Improving container knowledge using Docker on each project. Experiencing as PMO role in some projects.",
         "range":"September 2018 - Present"
     },
     {
         "role":"Backend developer",
         "company":"[Forzieri](https://www.it.forzieri.com/)",
-        "summary":"Contributed in the 'break the monolith' activity. Developed REST api in laravel/lumen using TDD as development methodology. Developed an ecosystem of Python jobs and covered by unit tests. Fixed issues in the classic asp codebase. Tried to spread my agile and SOLID knowledge into the company. ",
+        "summary":"'Breaking the Monolith' into Microservice architecture. Developing REST api in Laravel/Lumen using TDD. Programming an ecosystem of Python jobs, covered by unit tests. Fixing issues in the classic asp codebase. Spreading my AGILE and SOLID knowledge to the company. ",
         "range":"August 2017 - September 2018"
     },
     {
         "role":"Fullstack developer",
         "company":"[Pixartprinting a Cimpress Company](https://www.pixartprinting.com/)",
-        "summary":"Developed new features on the existing website using PHP and JavaScript. Projected new features using a microservices architecture, REST API and AWS cloud services. First uses of AGILE methodologies and unit testing.",
+        "summary":"Working on the existing codebase using PHP and JavaScript. Projecting and programming new features using microservices architecture, REST API and AWS cloud services. Using for the first time AGILE methodologies and unit testing.",
         "range":"January 2016 - August 2017"
     },
     {
         "role":"Frontend developer",
         "company":"Freelancer",
-        "summary":"Developed digital resources for e-learning purpose written in AngularJS. Used webservice for retrieve data, include authentication endpoints.  ",
+        "summary":"Developing digital resources for e-learning purpose written in AngularJS. Using webservices for retrieve data, include authentication endpoints.  ",
         "range":"September 2014 - October 2015"
     },
     {
         "role":"Android Developer",
         "company":"Freelancer",
-        "summary":"Developed app for companies in the italian publishing sector. Used webservice for retrieve business data and local SQlite for storing sessions. Used design pattern to make the code more readable and maintainable. Studied and used the UI best practices.",
+        "summary":"Programming app for companies in the italian publishing sector. Using webservices for retrieve business data and local SQlite for storing sessions. Using design pattern to make the code more readable and maintainable. Studying and using the UI best practices.",
         "range":"January 2012 - December 2015"
     }
 ]
