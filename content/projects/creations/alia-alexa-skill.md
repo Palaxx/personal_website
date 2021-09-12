@@ -13,7 +13,7 @@ link: "https://www.amazon.it/Michele-Palamidessi-Firenze-Pulizia-Strada/dp/B07N2
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.8
+  priority : 0.7
 ---
 This skill is developed with educational purpose. The code is written in nodejs and <em>hosted</em> on an AWS lambda.
 Users ask to <b>Alexa</b> the date of the next city's street clean service. The skill intercept the requests

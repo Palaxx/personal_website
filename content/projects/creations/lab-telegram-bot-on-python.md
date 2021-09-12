@@ -14,7 +14,7 @@ link: "https://github.com/Palaxx/telegram_bot_lab"
 fact: ""
 weight: 600
 sitemap:
-  priority : 0.7
+  priority : 0.6
 ---
 I created this lab as a challange with myself, to test my communication and teaching skills. 
 The company which I working for, needed an alternative notification system to send hosting alerts. 
