@@ -16,4 +16,4 @@ Enthusiastic learner and pragmatic programmer.
 
 Believer in code and experience sharing. 
 
-Aspiring Extreme Programmer. 
+Aspiring Blockchain programmer. 
