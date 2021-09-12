@@ -1,12 +1,12 @@
 [
   {
       "grouping":"Languages and frameworks",
-      "skills":[ "Java","Python","JavaScript","PHP","Android","Bash","jQuery","Angular 2", "Laravel"]
+      "skills":[ "PHP", "Laravel", "Python","JavaScript", "Java", "Solidity", "Android","Bash","jQuery","Angular 2", "Vuejs", "Svelte"]
   },
   {
     "grouping": "Architecture and Coding concepts",
     "skills": [
-      "Clean Code","Microservices","REST","Webservice", "SOLID", "TDD", "AGILE"
+      "Clean Code","Microservices","REST","Webservice", "SOLID", "TDD", "AGILE", "Event-driven programming"
     ]
   },
   {
@@ -20,8 +20,9 @@
   {
       "grouping":"Databases",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name":"Mysql","icon":"mysql"},
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name": "MongoDB","icon":"mongodb"},
         {"name":"Sqlite","icon":"database"},
         {"name":"Redis","icon":"redis"}
       ]
@@ -30,14 +31,14 @@
     "grouping":"Cloud and dev tools",
       "skills":[
           {"name":"AWS"},
-          "Alexa skill","Telegram bot",
-          "Docker", "Git", "Subversion"
+          "Docker", "Git", "Subversion",
+          "Alexa skill", "Telegram bot", "Socketio"
       ]
   },
   {
     "grouping":"Operating system",
     "skills": [
-      "Windows", "Linux",
+       "Linux", "Windows",
       { "name": "MacOs", "icon": "apple"}
     ]
   }

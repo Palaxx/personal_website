@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Michele Palamidessi</title>
+    <link>https://palamidessi.netlify.app/projects/creations/</link>
+    <description>Recent content in Projects on Michele Palamidessi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://palamidessi.netlify.app/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexa Skill &#34;Alia&#34;</title>
+      <link>https://palamidessi.netlify.app/projects/creations/alia-alexa-skill/</link>
+      <pubDate>Fri, 27 Mar 2020 13:49:40 +0100</pubDate>
+      
+      <guid>https://palamidessi.netlify.app/projects/creations/alia-alexa-skill/</guid>
+      <description>This skill is developed with educational purpose. The code is written in nodejs and hostedon an AWS lambda. Users ask to Alexathe date of the next city&amp;rsquo;s street clean service. The skill intercept the requests and query the offical website. The response will be cleaned and enriched with the Alexa Speech Synthesis Markup Language.</description>
+    </item>
+    
+    <item>
+      <title>Lab Telegram Bot on Python</title>
+      <link>https://palamidessi.netlify.app/projects/creations/lab-telegram-bot-on-python/</link>
+      <pubDate>Fri, 27 Mar 2020 14:16:22 +0100</pubDate>
+      
+      <guid>https://palamidessi.netlify.app/projects/creations/lab-telegram-bot-on-python/</guid>
+      <description>I created this lab as a challange with myself, to test my communication and teaching skills. The company which I working for, needed an alternative notification system to send hosting alerts. This was an opportunity to introduce bot development to my collegues. The lab is composed of a presentationon slides.com and a code repositoryon github</description>
+    </item>
+    
+  </channel>
+</rss>

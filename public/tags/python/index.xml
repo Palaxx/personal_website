@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Michele Palamidessi</title>
+    <link>https://palamidessi.netlify.app/tags/python/</link>
+    <description>Recent content in python on Michele Palamidessi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2020 14:16:22 +0100</lastBuildDate><atom:link href="https://palamidessi.netlify.app/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab Telegram Bot on Python</title>
+      <link>https://palamidessi.netlify.app/projects/creations/lab-telegram-bot-on-python/</link>
+      <pubDate>Fri, 27 Mar 2020 14:16:22 +0100</pubDate>
+      
+      <guid>https://palamidessi.netlify.app/projects/creations/lab-telegram-bot-on-python/</guid>
+      <description>I created this lab as a challange with myself, to test my communication and teaching skills. The company which I working for, needed an alternative notification system to send hosting alerts. This was an opportunity to introduce bot development to my collegues. The lab is composed of a presentationon slides.com and a code repositoryon github</description>
+    </item>
+    
+  </channel>
+</rss>

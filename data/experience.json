@@ -1,9 +1,15 @@
 [
     {
+        "role":"Backend developer",
+        "company":"[Digital Virgo](https://www.digitalvirgo.com/)",
+        "summary":"Projecting and developing a company adv aggregator website. Hourly database synchronization with adv networks data.  Live browser update using socketio. Applying event-driven programming and following TDD and SOLID principles. Using docker as local environment and gitlab CI for deploy and test.",
+        "range":"April 2020 - Present"
+    },
+    {
         "role":"Software developer",
         "company":"[Computergross](https://www.computergross.it)",
         "summary":"Projecting and developing a vendor abstract SaaS marketplace. Creating a dashboard Angular2/Laravel used by customers to manage their Azure subscriptions billing. Consolidating my Clean Code and testing skills. Improving container knowledge using Docker on each project. Experiencing as PMO role in some projects.",
-        "range":"September 2018 - Present"
+        "range":"September 2018 - April 2020"
     },
     {
         "role":"Backend developer",

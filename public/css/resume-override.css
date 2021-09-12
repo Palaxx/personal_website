@@ -1,0 +1,23 @@
+.bg-primary {
+  background-color: #2b5ea8 !important;
+}
+
+.text-primary {
+  color: #2b5ea8 !important;
+}
+
+a {
+  color: #2b5ea8;
+}
+
+a:hover, a:focus, a:active {
+  color: #467cc9;
+}
+
+img {
+  max-width:80%;
+}
+
+.list-social-icons a:hover {
+  color: #2b5ea8;
+}
